@@ -1,2 +1,2 @@
 # cuddly-enigma
-An archive to show my progression as a programmer
+1st year computer scientist at University of Hertfordshire
