@@ -1,2 +1,2 @@
 # cuddly-enigma
-1st year computer scientist at University of Hertfordshire
+Computer Science student at University of Hertfordshire
