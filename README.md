@@ -1,36 +1,59 @@
-# Welcome to My GitHub Profile 👋
+Welcome to My GitHub 👋
 
-Hello! I'm Min, a 3rd-year Computer Science student at the University of Hertfordshire. I'm passionate about coding, problem-solving, and constantly learning new technologies. This GitHub is my digital portfolio where I showcase my journey as a programmer and a dedicated learner.
+Hi, I’m Min — a Computer Science graduate (First Class, University of Hertfordshire).
+I specialise in data engineering, backend systems, and cloud-native development, with a passion for building reliable, scalable, and intelligent data-driven applications.
 
-## 🔍 About Me
-- 🎓 **Education:** Currently pursuing a BSc in Computer Science at the University of Hertfordshire.
-- 💻 **Interests:** Software Development, Data Science, Machine Learning, Web Development, and Open Source.
-- 📚 **Learning:** Continuously expanding my knowledge in algorithms, data structures, and exploring new technologies like AI/ML.
-- 🛠️ **Skills:** Python, Java, JavaScript, HTML/CSS, SQL, Git, and more.
-- 🌱 **Currently Working On:** Enhancing my skills in full-stack development and exploring machine learning
+This GitHub is my space to document projects, experiments, and systems I’m building as I grow into a cloud-native data engineer.
 
-## 📂 My GitHub Highlights
+🔍 About Me
 
-### 📝 Notes and Learning Logs
-I am a firm believer of note taking and learning logs which help me have a solid understanding of my progress, aswell as always trying to apply what I've learnt.
+🎓 Education: BSc Computer Science (First Class), University of Hertfordshire
 
-- [Learning Path & Roadmap]
-- [Technical Notes]
+☁️ Focus Areas: Data Engineering, Cloud-Native Systems, Backend Development, Distributed Systems
 
-### 🚀 Projects
-Some projects that I've been working on will be posted here, at the moment I'm looking into programs and applications that are focused on analysing sales.
+📚 Currently Exploring: Containers (Docker/Kubernetes), ETL pipelines, data lake/warehouse design, ML-ready data pipelines
 
-### 🧠 Problem Solving
-I regularly practice coding on platforms like LeetCode and Codewars to sharpen my problem-solving skills.
+🛠️ Core Skills:
 
-- [LeetCode Solutions](https://github.com/yourusername/leetcode-solutions)
-- [Codewars Challenges](https://github.com/yourusername/codewars-challenges)
+Programming: Python, Java, SQL, JavaScript
 
+Data Tools: Pandas, Spark, ETL workflows
 
-## 📫 Contact
-I'm always open to discussing new ideas, collaborating on projects, or just having a chat about tech. Please feel free to contact me here!
+Cloud & Infra: Docker, APIs, Git, CI/CD foundations
 
-- [LinkedIn](https://www.linkedin.com/in/min-thu-564835324/)
-- [Email](mailto:john_minthu@outlook.com)
+Concepts: Algorithms, distributed systems, data structures
 
-Thanks for stopping by! I look forward to connecting with fellow developers and learners.
+📂 Highlights
+🚀 Projects
+
+TfL Overcrowding Predictor – Real-time data collection + ML forecasting using London transport APIs
+
+Fitness Data Analytics Platform – Cloud-backed system integrating JEFIT & FitIndex APIs for tracking and insights
+
+[More Projects Incoming] – focusing on scalable pipelines and cloud-native backends
+
+📝 Notes & Learning Logs
+
+I document my learning journey and keep transparent notes on my roadmap toward becoming a specialised data engineer.
+
+[Learning Path & Roadmap]
+
+[Technical Notes]
+
+🧠 Problem Solving
+
+I regularly strengthen my algorithmic and problem-solving skills on coding platforms:
+
+LeetCode Solutions
+
+Codewars Challenges
+
+📫 Let’s Connect
+
+I’m always open to collaborations, projects, or conversations around cloud-native data engineering:
+
+LinkedIn
+
+mailto:john_minthu@outlook.com
+
+Thanks for visiting
