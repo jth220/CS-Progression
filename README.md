@@ -34,8 +34,8 @@ I document my learning journey and keep transparent notes on my roadmap toward b
 
 ### 🧠 Problem Solving
 I regularly strengthen my algorithmic and problem-solving skills on coding platforms:  
-- [LeetCode Solutions](https://github.com/minthu-dev/leetcode-solutions)  
-- [Codewars Challenges](https://github.com/minthu-dev/codewars-challenges)  
+- [LeetCode Solutions]([https://github.com/minthu-dev/leetcode-solutions](https://github.com/jth220/CS-Progression/tree/main/CS-Progression-main/Python/Leetcode))  
+- [Codewars Challenges]([https://github.com/minthu-dev/codewars-challenges](https://github.com/jth220/CS-Progression/tree/main/CS-Progression-main/Python/Codewar))  
 
 ---
 
